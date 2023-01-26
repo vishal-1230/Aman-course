@@ -1,0 +1,65 @@
+#header{
+    background: yellow;
+    display:flex;
+    justify-content: space-between;
+    padding:40px;
+}
+
+body{
+    margin: 0;
+    font-family: 'Montserrat';
+}
+
+.aman-bsp{
+    font-weight: 600; 
+    font-size: 25px;
+}
+
+.box{
+    background-color:aqua;
+    width:fit-content;
+    padding:15px;
+    margin-top: 20px;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.box-span{
+    margin-top:7px;
+    margin-bottom: 7px;
+}
+
+#footer{
+    display:flex;
+    justify-content: space-between;
+    background: blue;
+    padding: 30px;
+    margin-top: 20px;
+}
+.footer1{
+    margin-right: 25px; 
+    color: aqua; 
+    font-family: 'East Sea Dokdo';
+    margin-right: 25px; 
+    color: aqua;
+    display: inline-flex;
+    align-items: center
+}
+
+.footer-name{
+    display:inline;
+    background: blue;
+    padding: 30px;
+    
+}
+.aman1{ 
+    display:inline;
+    background: blue;
+    padding: 30px;
+}
+
+.aman-bhaskar{
+    font-weight: 700;
+    font-size: x-large;
+    display: block;
+}

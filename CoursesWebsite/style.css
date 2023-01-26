@@ -1,0 +1,57 @@
+
+.hed{ display:flex;
+    justify-content: space-between;
+    color: blue;
+}
+.hedd{
+    margin-right: 30px;
+    color: blue;
+}
+    .haeding{
+        font-weight: 300px;
+        color: blue;
+        font-size: 50px;
+        
+    }
+    .butt{
+        color: azure;
+        background: rgb(250, 57, 89);
+        padding-left: 17px;
+        padding-right: 17px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        font-weight: 600;
+    }
+    .text{
+        color: rgb(197, 158, 158);
+        font-size: 25px;
+    }
+    .bac{
+        background: transparent;
+        position: absolute;
+        padding: 100px;
+        margin-left: 50px;
+    z-index: 10;
+    }
+    .bttt{
+        border: none;
+        color: blue;
+    }
+    .btt{
+        border-color: blue;
+        border-width: 4px;
+        color: blue;
+    }
+
+.svg{
+    position: absolute;
+    right: 0;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+
+.logo{
+    height: 70px;
+    width: 70px;
+    margin-left: 30px;
+}

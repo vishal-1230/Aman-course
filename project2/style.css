@@ -1,0 +1,102 @@
+.heading{
+    font-size: 25px;
+    font-weight: 600;
+    display: inline;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background: #ffcccc;
+    padding-left: 25px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-right: 25px;
+}
+
+.space{
+    margin-right: 15px;
+}
+
+.display{
+    width: 50vw;
+    height: 65vh;
+    z-index: 2;
+    background: #f8c291;
+}
+
+.screen{
+   background: #ffcccc;
+   width: 200px;
+   height: fit-content;
+    text-align: center;
+    padding-bottom: 10px;
+    z-index: 1;
+}
+
+.amanpic{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+.fa-brands{
+    margin-right: 10px;
+}
+
+.website{
+    display: flex;
+    position: absolute;
+    top:140px;
+    left:560px;
+}
+.aman{
+    width:200px;
+    background: #ffcccc;
+}
+.footerr{
+    display: flex;
+    justify-content: space-between;
+    background: #ffcccc;
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 25px;
+}
+.book{
+    margin-left: 35px;
+}
+
+.name{
+    flex-grow: 1;
+}    
+body{
+    margin: 0px;
+} 
+
+.btn{
+    background: blue;
+    border-radius: 50px;
+    border: blue 1px solid;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btn2{
+    border-radius: 50px;
+    border: black 2px solid;
+    background: white;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+@media screen and (max-width:400px){
+    
+}
